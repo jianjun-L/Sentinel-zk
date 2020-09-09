@@ -1,0 +1,6 @@
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-cdi-interceptor\src\test\java\com\alibaba\csp\sentinel\annotation\cdi\interceptor\MethodWrapperTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-cdi-interceptor\src\test\java\com\alibaba\csp\sentinel\annotation\cdi\interceptor\AbstractSentinelInterceptorSupportTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-cdi-interceptor\src\test\java\com\alibaba\csp\sentinel\annotation\cdi\interceptor\integration\SentinelAnnotationInterceptorIntegrationTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-cdi-interceptor\src\test\java\com\alibaba\csp\sentinel\annotation\cdi\interceptor\integration\service\FooService.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-cdi-interceptor\src\test\java\com\alibaba\csp\sentinel\annotation\cdi\interceptor\integration\service\FooUtil.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-cdi-interceptor\src\test\java\com\alibaba\csp\sentinel\annotation\cdi\interceptor\ResourceMetadataRegistryTest.java

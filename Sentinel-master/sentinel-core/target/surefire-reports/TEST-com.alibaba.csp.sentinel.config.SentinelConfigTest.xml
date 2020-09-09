@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.alibaba.csp.sentinel.config.SentinelConfigTest" time="0" tests="3" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="D:\Repositories\maven2\org\apache\maven\surefire\surefire-booter\2.22.1\surefire-booter-2.22.1.jar;D:\Repositories\maven2\org\apache\maven\surefire\surefire-api\2.22.1\surefire-api-2.22.1.jar;D:\Repositories\maven2\org\apache\maven\surefire\surefire-logger-api\2.22.1\surefire-logger-api-2.22.1.jar;D:\111\Sentinel-master\Sentinel-master\sentinel-core\target\test-classes;D:\111\Sentinel-master\Sentinel-master\sentinel-core\target\classes;D:\Repositories\maven2\junit\junit\4.12\junit-4.12.jar;D:\Repositories\maven2\org\mockito\mockito-core\2.28.2\mockito-core-2.28.2.jar;D:\Repositories\maven2\net\bytebuddy\byte-buddy\1.9.10\byte-buddy-1.9.10.jar;D:\Repositories\maven2\net\bytebuddy\byte-buddy-agent\1.9.10\byte-buddy-agent-1.9.10.jar;D:\Repositories\maven2\org\objenesis\objenesis\2.6\objenesis-2.6.jar;D:\Repositories\maven2\org\awaitility\awaitility\3.1.5\awaitility-3.1.5.jar;D:\Repositories\maven2\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;D:\Repositories\maven2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Repositories\maven2\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-module-junit4\2.0.0\powermock-module-junit4-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-module-junit4-common\2.0.0\powermock-module-junit4-common-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-reflect\2.0.0\powermock-reflect-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-core\2.0.0\powermock-core-2.0.0.jar;D:\Repositories\maven2\org\javassist\javassist\3.24.0-GA\javassist-3.24.0-GA.jar;D:\Repositories\maven2\org\powermock\powermock-api-mockito2\2.0.0\powermock-api-mockito2-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-api-support\2.0.0\powermock-api-support-2.0.0.jar;D:\Repositories\maven2\org\apache\maven\surefire\surefire-junit4\2.22.1\surefire-junit4-2.22.1.jar"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\bin"/>
+    <property name="sun.java.command" value="org.apache.maven.surefire.booter.ForkedBooter C:\Users\liujianjun\AppData\Local\Temp\surefire8793694322550038261 2020-09-03T14-26-43_300-jvmRun1 surefire268784083422862995tmp surefire_07964783447404539798tmp"/>
+    <property name="surefire.test.class.path" value="D:\111\Sentinel-master\Sentinel-master\sentinel-core\target\test-classes;D:\111\Sentinel-master\Sentinel-master\sentinel-core\target\classes;D:\Repositories\maven2\junit\junit\4.12\junit-4.12.jar;D:\Repositories\maven2\org\mockito\mockito-core\2.28.2\mockito-core-2.28.2.jar;D:\Repositories\maven2\net\bytebuddy\byte-buddy\1.9.10\byte-buddy-1.9.10.jar;D:\Repositories\maven2\net\bytebuddy\byte-buddy-agent\1.9.10\byte-buddy-agent-1.9.10.jar;D:\Repositories\maven2\org\objenesis\objenesis\2.6\objenesis-2.6.jar;D:\Repositories\maven2\org\awaitility\awaitility\3.1.5\awaitility-3.1.5.jar;D:\Repositories\maven2\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;D:\Repositories\maven2\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;D:\Repositories\maven2\org\hamcrest\java-hamcrest\2.0.0.0\java-hamcrest-2.0.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-module-junit4\2.0.0\powermock-module-junit4-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-module-junit4-common\2.0.0\powermock-module-junit4-common-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-reflect\2.0.0\powermock-reflect-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-core\2.0.0\powermock-core-2.0.0.jar;D:\Repositories\maven2\org\javassist\javassist\3.24.0-GA\javassist-3.24.0-GA.jar;D:\Repositories\maven2\org\powermock\powermock-api-mockito2\2.0.0\powermock-api-mockito2-2.0.0.jar;D:\Repositories\maven2\org\powermock\powermock-api-support\2.0.0\powermock-api-support-2.0.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\liujianjun"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_91\jre"/>
+    <property name="basedir" value="D:\111\Sentinel-master\Sentinel-master\sentinel-core"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_91\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_91\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_91-b15"/>
+    <property name="user.name" value="liujianjun"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.1"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\Repositories\maven2"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\LIUJIA~1\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2017.1"/>
+    <property name="java.version" value="1.8.0_91"/>
+    <property name="user.dir" value="D:\111\Sentinel-master\Sentinel-master\sentinel-core"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_91\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_91\bin;D:\apache-maven-3.0.4\bin;D:\Program Files\SlikSvn\bin;C:\strawberry\c\bin;C:\strawberry\perl\bin;D:\3.0ftp\boot\mysql-5.5.51-win32\bin;C:\windows\system32;C:\MinGW\bin;C:\Python27;C:\Python27\Scripts;D:\Program Files (x86)\opencv\build;E:\Program Files\Git\cmd;C:\Users\liujianjun\AppData\Local\Programs\Python\Python36-32\Scripts\;C:\Users\liujianjun\AppData\Local\Programs\Python\Python36-32\;d:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Users\liujianjun\AppData\Local\Programs\Fiddler;C:\Users\liujianjun\AppData\Local\BypassRuntm;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.91-b15"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_91\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testDefaultConfig" classname="com.alibaba.csp.sentinel.config.SentinelConfigTest" time="0"/>
+  <testcase name="testColdFactoryLargerThanOne" classname="com.alibaba.csp.sentinel.config.SentinelConfigTest" time="0"/>
+  <testcase name="testColdFactorEqualOrSmallerThanOne" classname="com.alibaba.csp.sentinel.config.SentinelConfigTest" time="0"/>
+</testsuite>

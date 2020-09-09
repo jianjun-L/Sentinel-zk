@@ -1,0 +1,16 @@
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\api\ZuulGatewayApiMatcherManager.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\HttpRequestMessageItemParser.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\api\route\RegexRoutePathMatcher.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\api\route\ZuulRouteMatchers.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\constants\SentinelZuul2Constants.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\fallback\ZuulBlockFallbackManager.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\filters\EntryHolder.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\fallback\DefaultBlockFallbackProvider.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\api\ZuulApiDefinitionChangeObserver.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\api\route\PrefixRoutePathMatcher.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\filters\inbound\SentinelZuulInboundFilter.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\filters\outbound\SentinelZuulOutboundFilter.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\fallback\ZuulBlockFallbackProvider.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\api\matcher\HttpRequestMessageApiMatcher.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\fallback\BlockResponse.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul2\filters\endpoint\SentinelZuulEndpoint.class

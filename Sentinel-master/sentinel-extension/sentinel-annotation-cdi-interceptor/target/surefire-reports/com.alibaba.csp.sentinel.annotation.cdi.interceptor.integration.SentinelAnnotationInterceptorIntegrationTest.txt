@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alibaba.csp.sentinel.annotation.cdi.interceptor.integration.SentinelAnnotationInterceptorIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.387 s - in com.alibaba.csp.sentinel.annotation.cdi.interceptor.integration.SentinelAnnotationInterceptorIntegrationTest

@@ -1,0 +1,4 @@
+com\alibaba\csp\sentinel\adapter\gateway\sc\SpringCloudGatewayParamParserTest.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\SpringCloudGatewayParamParserTest$1.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\SentinelGatewayFilterTest.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\SentinelGatewayFilterTest$1.class

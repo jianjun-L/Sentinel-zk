@@ -1,0 +1,2 @@
+com\alibaba\csp\sentinel\logging\slf4j\RecordLogLogger.class
+com\alibaba\csp\sentinel\logging\slf4j\CommandCenterLogLogger.class

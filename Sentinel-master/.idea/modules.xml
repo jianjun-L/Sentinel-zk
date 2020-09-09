@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-annotation-aspectj/sentinel-annotation-aspectj.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-annotation-aspectj/sentinel-annotation-aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-annotation-cdi-interceptor/sentinel-annotation-cdi-interceptor.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-annotation-cdi-interceptor/sentinel-annotation-cdi-interceptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-apache-dubbo-adapter/sentinel-apache-dubbo-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-apache-dubbo-adapter/sentinel-apache-dubbo-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-apache-httpclient-adapter/sentinel-apache-httpclient-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-apache-httpclient-adapter/sentinel-apache-httpclient-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-api-gateway-adapter-common/sentinel-api-gateway-adapter-common.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-api-gateway-adapter-common/sentinel-api-gateway-adapter-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-cluster/sentinel-cluster.iml" filepath="$PROJECT_DIR$/sentinel-cluster/sentinel-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-client-default/sentinel-cluster-client-default.iml" filepath="$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-client-default/sentinel-cluster-client-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-common-default/sentinel-cluster-common-default.iml" filepath="$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-common-default/sentinel-cluster-common-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-server-default/sentinel-cluster-server-default.iml" filepath="$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-server-default/sentinel-cluster-server-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-server-envoy-rls/sentinel-cluster-server-envoy-rls.iml" filepath="$PROJECT_DIR$/sentinel-cluster/sentinel-cluster-server-envoy-rls/sentinel-cluster-server-envoy-rls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-core/sentinel-core.iml" filepath="$PROJECT_DIR$/sentinel-core/sentinel-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-dashboard/sentinel-dashboard.iml" filepath="$PROJECT_DIR$/sentinel-dashboard/sentinel-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-apollo/sentinel-datasource-apollo.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-apollo/sentinel-datasource-apollo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-consul/sentinel-datasource-consul.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-consul/sentinel-datasource-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-etcd/sentinel-datasource-etcd.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-etcd/sentinel-datasource-etcd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-eureka/sentinel-datasource-eureka.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-eureka/sentinel-datasource-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-extension/sentinel-datasource-extension.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-extension/sentinel-datasource-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-nacos/sentinel-datasource-nacos.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-nacos/sentinel-datasource-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-redis/sentinel-datasource-redis.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-redis/sentinel-datasource-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-spring-cloud-config/sentinel-datasource-spring-cloud-config.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-spring-cloud-config/sentinel-datasource-spring-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-datasource-zookeeper/sentinel-datasource-zookeeper.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-datasource-zookeeper/sentinel-datasource-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-dubbo-adapter/sentinel-dubbo-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-dubbo-adapter/sentinel-dubbo-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-extension.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-grpc-adapter/sentinel-grpc-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-grpc-adapter/sentinel-grpc-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-jax-rs-adapter/sentinel-jax-rs-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-jax-rs-adapter/sentinel-jax-rs-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-logging/sentinel-logging.iml" filepath="$PROJECT_DIR$/sentinel-logging/sentinel-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-logging/sentinel-logging-slf4j/sentinel-logging-slf4j.iml" filepath="$PROJECT_DIR$/sentinel-logging/sentinel-logging-slf4j/sentinel-logging-slf4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-okhttp-adapter/sentinel-okhttp-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-okhttp-adapter/sentinel-okhttp-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-extension/sentinel-parameter-flow-control/sentinel-parameter-flow-control.iml" filepath="$PROJECT_DIR$/sentinel-extension/sentinel-parameter-flow-control/sentinel-parameter-flow-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-parent.iml" filepath="$PROJECT_DIR$/sentinel-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-reactor-adapter/sentinel-reactor-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-reactor-adapter/sentinel-reactor-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-sofa-rpc-adapter/sentinel-sofa-rpc-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-sofa-rpc-adapter/sentinel-sofa-rpc-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-spring-cloud-gateway-adapter/sentinel-spring-cloud-gateway-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-spring-cloud-gateway-adapter/sentinel-spring-cloud-gateway-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-spring-webflux-adapter/sentinel-spring-webflux-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-spring-webflux-adapter/sentinel-spring-webflux-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-spring-webmvc-adapter/sentinel-spring-webmvc-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-spring-webmvc-adapter/sentinel-spring-webmvc-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-transport/sentinel-transport.iml" filepath="$PROJECT_DIR$/sentinel-transport/sentinel-transport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-transport/sentinel-transport-common/sentinel-transport-common.iml" filepath="$PROJECT_DIR$/sentinel-transport/sentinel-transport-common/sentinel-transport-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-transport/sentinel-transport-netty-http/sentinel-transport-netty-http.iml" filepath="$PROJECT_DIR$/sentinel-transport/sentinel-transport-netty-http/sentinel-transport-netty-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-transport/sentinel-transport-simple-http/sentinel-transport-simple-http.iml" filepath="$PROJECT_DIR$/sentinel-transport/sentinel-transport-simple-http/sentinel-transport-simple-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-web-servlet/sentinel-web-servlet.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-web-servlet/sentinel-web-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-zuul-adapter/sentinel-zuul-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-zuul-adapter/sentinel-zuul-adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sentinel-adapter/sentinel-zuul2-adapter/sentinel-zuul2-adapter.iml" filepath="$PROJECT_DIR$/sentinel-adapter/sentinel-zuul2-adapter/sentinel-zuul2-adapter.iml" />
+    </modules>
+  </component>
+</project>

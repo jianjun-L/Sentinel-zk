@@ -1,0 +1,15 @@
+com\alibaba\csp\sentinel\adapter\gateway\sc\callback\RedirectBlockRequestHandler.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\callback\DefaultBlockRequestHandler.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\ServerWebExchangeItemParser.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\callback\DefaultBlockRequestHandler$ErrorResult.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\api\GatewayApiMatcherManager.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\exception\SentinelGatewayBlockExceptionHandler$1.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\route\AntRoutePathMatcher.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\callback\BlockRequestHandler.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\api\matcher\WebExchangeApiMatcher.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\route\RegexRoutePathMatcher.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\callback\GatewayCallbackManager.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\exception\SentinelGatewayBlockExceptionHandler.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\api\SpringCloudGatewayApiDefinitionChangeObserver.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\route\RouteMatchers.class
+com\alibaba\csp\sentinel\adapter\gateway\sc\SentinelGatewayFilter.class

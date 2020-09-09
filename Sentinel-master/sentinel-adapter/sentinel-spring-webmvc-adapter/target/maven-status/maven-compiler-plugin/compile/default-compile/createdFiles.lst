@@ -1,0 +1,10 @@
+com\alibaba\csp\sentinel\adapter\spring\webmvc\callback\DefaultBlockExceptionHandler.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\config\BaseWebMvcConfig.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\SentinelWebTotalInterceptor.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\callback\RequestOriginParser.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\AbstractSentinelInterceptor.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\config\SentinelWebMvcTotalConfig.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\callback\UrlCleaner.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\config\SentinelWebMvcConfig.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\SentinelWebInterceptor.class
+com\alibaba\csp\sentinel\adapter\spring\webmvc\callback\BlockExceptionHandler.class

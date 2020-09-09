@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alibaba.csp.sentinel.slots.block.flow.controller.WarmUpControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.091 s - in com.alibaba.csp.sentinel.slots.block.flow.controller.WarmUpControllerTest

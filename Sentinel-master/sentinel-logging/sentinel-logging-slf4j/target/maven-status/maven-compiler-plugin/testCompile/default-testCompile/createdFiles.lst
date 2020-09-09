@@ -1,0 +1,5 @@
+com\alibaba\csp\sentinel\logging\slf4j\AbstraceSlf4jLogTest$TestException.class
+com\alibaba\csp\sentinel\logging\slf4j\AbstraceSlf4jLogTest$1.class
+com\alibaba\csp\sentinel\logging\slf4j\CommandCenterLogTest.class
+com\alibaba\csp\sentinel\logging\slf4j\RecordLogTest.class
+com\alibaba\csp\sentinel\logging\slf4j\AbstraceSlf4jLogTest.class

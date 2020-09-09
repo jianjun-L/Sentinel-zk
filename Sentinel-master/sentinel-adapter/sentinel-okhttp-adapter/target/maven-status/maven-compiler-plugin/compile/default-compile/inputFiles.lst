@@ -1,0 +1,6 @@
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-okhttp-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\okhttp\fallback\OkHttpFallback.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-okhttp-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\okhttp\SentinelOkHttpInterceptor.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-okhttp-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\okhttp\SentinelOkHttpConfig.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-okhttp-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\okhttp\extractor\DefaultOkHttpResourceExtractor.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-okhttp-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\okhttp\extractor\OkHttpResourceExtractor.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-okhttp-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\okhttp\fallback\DefaultOkHttpFallback.java

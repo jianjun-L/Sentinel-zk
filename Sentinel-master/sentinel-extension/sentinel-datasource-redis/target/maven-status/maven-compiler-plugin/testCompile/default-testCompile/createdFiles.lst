@@ -1,0 +1,7 @@
+com\alibaba\csp\sentinel\datasource\redis\SentinelModeRedisDataSourceTest$1.class
+com\alibaba\csp\sentinel\datasource\redis\StandaloneRedisDataSourceTest.class
+com\alibaba\csp\sentinel\datasource\redis\StandaloneRedisDataSourceTest$2.class
+com\alibaba\csp\sentinel\datasource\redis\RedisConnectionConfigTest.class
+com\alibaba\csp\sentinel\datasource\redis\SentinelModeRedisDataSourceTest$2.class
+com\alibaba\csp\sentinel\datasource\redis\SentinelModeRedisDataSourceTest.class
+com\alibaba\csp\sentinel\datasource\redis\StandaloneRedisDataSourceTest$1.class

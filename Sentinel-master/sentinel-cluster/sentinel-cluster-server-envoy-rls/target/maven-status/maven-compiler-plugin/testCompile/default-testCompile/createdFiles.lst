@@ -1,0 +1,2 @@
+com\alibaba\csp\sentinel\cluster\server\envoy\rls\SentinelEnvoyRlsServiceImplTest.class
+com\alibaba\csp\sentinel\cluster\server\envoy\rls\rule\EnvoySentinelRuleConverterTest.class

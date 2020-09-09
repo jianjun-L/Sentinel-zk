@@ -1,0 +1,6 @@
+com\alibaba\csp\sentinel\adapter\gateway\zuul\fallback\ZuulBlockFallbackManagerTest$MyNullResponseFallBackProvider.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul\filters\SentinelZuulPostFilterTest.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul\filters\SentinelZuulPreFilterTest.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul\fallback\ZuulBlockFallbackManagerTest.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul\fallback\ZuulBlockFallbackProviderTest.class
+com\alibaba\csp\sentinel\adapter\gateway\zuul\filters\SentinelZuulErrorFilterTest.class

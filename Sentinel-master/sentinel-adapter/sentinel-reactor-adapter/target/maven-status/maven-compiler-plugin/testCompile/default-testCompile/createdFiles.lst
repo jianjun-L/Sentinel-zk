@@ -1,0 +1,3 @@
+com\alibaba\csp\sentinel\adapter\reactor\FluxSentinelOperatorTestIntegrationTest.class
+com\alibaba\csp\sentinel\adapter\reactor\ReactorSphUTest.class
+com\alibaba\csp\sentinel\adapter\reactor\MonoSentinelOperatorIntegrationTest.class

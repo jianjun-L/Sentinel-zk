@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alibaba.csp.sentinel.datasource.spring.cloud.config.test.SentinelRuleLocatorTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.096 s - in com.alibaba.csp.sentinel.datasource.spring.cloud.config.test.SentinelRuleLocatorTests

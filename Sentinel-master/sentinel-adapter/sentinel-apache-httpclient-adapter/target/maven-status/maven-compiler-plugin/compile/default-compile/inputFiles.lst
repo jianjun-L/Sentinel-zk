@@ -1,0 +1,6 @@
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-apache-httpclient-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\apache\httpclient\config\SentinelApacheHttpClientConfig.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-apache-httpclient-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\apache\httpclient\extractor\ApacheHttpClientResourceExtractor.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-apache-httpclient-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\apache\httpclient\fallback\DefaultApacheHttpClientFallback.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-apache-httpclient-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\apache\httpclient\SentinelApacheHttpClientBuilder.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-apache-httpclient-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\apache\httpclient\fallback\ApacheHttpClientFallback.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-adapter\sentinel-apache-httpclient-adapter\src\main\java\com\alibaba\csp\sentinel\adapter\apache\httpclient\extractor\DefaultApacheHttpClientResourceExtractor.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alibaba.csp.sentinel.adapter.dubbo.SentinelDubboConsumerFilterTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.238 s - in com.alibaba.csp.sentinel.adapter.dubbo.SentinelDubboConsumerFilterTest

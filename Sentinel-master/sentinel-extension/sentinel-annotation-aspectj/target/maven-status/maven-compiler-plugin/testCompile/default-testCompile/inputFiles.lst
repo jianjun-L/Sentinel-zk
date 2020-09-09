@@ -1,0 +1,9 @@
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\integration\service\FooService.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\integration\service\GlobalFallback.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\integration\service\BarService.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\AbstractSentinelAspectSupportTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\integration\SentinelAnnotationIntegrationTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\integration\service\FooUtil.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\ResourceMetadataRegistryTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\MethodWrapperTest.java
+D:\111\Sentinel-master\Sentinel-master\sentinel-extension\sentinel-annotation-aspectj\src\test\java\com\alibaba\csp\sentinel\annotation\aspectj\integration\config\AopTestConfig.java

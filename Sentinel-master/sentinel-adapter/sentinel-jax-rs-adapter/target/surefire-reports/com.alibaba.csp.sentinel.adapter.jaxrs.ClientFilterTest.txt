@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alibaba.csp.sentinel.adapter.jaxrs.ClientFilterTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.602 s - in com.alibaba.csp.sentinel.adapter.jaxrs.ClientFilterTest

@@ -1,0 +1,12 @@
+com\alibaba\csp\sentinel\adapter\jaxrs\exception\DefaultExceptionMapper.class
+com\alibaba\csp\sentinel\adapter\jaxrs\future\FutureWrapper.class
+com\alibaba\csp\sentinel\adapter\jaxrs\request\DefaultResourceNameParser.class
+com\alibaba\csp\sentinel\adapter\jaxrs\request\ResourceNameParser.class
+com\alibaba\csp\sentinel\adapter\jaxrs\fallback\DefaultSentinelJaxRsFallback$1.class
+com\alibaba\csp\sentinel\adapter\jaxrs\SentinelJaxRsClientTemplate.class
+com\alibaba\csp\sentinel\adapter\jaxrs\request\RequestOriginParser.class
+com\alibaba\csp\sentinel\adapter\jaxrs\SentinelJaxRsProviderFilter.class
+com\alibaba\csp\sentinel\adapter\jaxrs\fallback\SentinelJaxRsFallback.class
+com\alibaba\csp\sentinel\adapter\jaxrs\request\DefaultRequestOriginParser.class
+com\alibaba\csp\sentinel\adapter\jaxrs\config\SentinelJaxRsConfig.class
+com\alibaba\csp\sentinel\adapter\jaxrs\fallback\DefaultSentinelJaxRsFallback.class

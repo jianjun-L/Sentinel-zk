@@ -1,0 +1,8 @@
+com\alibaba\csp\sentinel\adapter\okhttp\fallback\OkHttpFallbackTest.class
+com\alibaba\csp\sentinel\adapter\okhttp\SentinelOkHttpInterceptorTest$1.class
+com\alibaba\csp\sentinel\adapter\okhttp\config\SentinelOkHttpConfigTest.class
+com\alibaba\csp\sentinel\adapter\okhttp\SentinelOkHttpInterceptorTest.class
+com\alibaba\csp\sentinel\adapter\okhttp\extractor\OkHttpResourceExtractorTest.class
+com\alibaba\csp\sentinel\adapter\okhttp\app\controller\TestController.class
+com\alibaba\csp\sentinel\adapter\okhttp\extractor\OkHttpResourceExtractorTest$1.class
+com\alibaba\csp\sentinel\adapter\okhttp\app\TestApplication.class

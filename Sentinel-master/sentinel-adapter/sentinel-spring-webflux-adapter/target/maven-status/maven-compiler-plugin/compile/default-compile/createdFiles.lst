@@ -1,0 +1,7 @@
+com\alibaba\csp\sentinel\adapter\spring\webflux\callback\DefaultBlockRequestHandler.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\exception\SentinelBlockExceptionHandler$1.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\SentinelWebFluxFilter.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\exception\SentinelBlockExceptionHandler.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\callback\WebFluxCallbackManager.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\callback\BlockRequestHandler.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\callback\DefaultBlockRequestHandler$ErrorResult.class

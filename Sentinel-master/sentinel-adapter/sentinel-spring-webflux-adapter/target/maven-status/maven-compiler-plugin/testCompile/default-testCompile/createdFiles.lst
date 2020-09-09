@@ -1,0 +1,5 @@
+com\alibaba\csp\sentinel\adapter\spring\webflux\test\WebFluxTestApplication.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\test\WebFluxTestConfig.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\test\WebFluxTestRouter.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\test\WebFluxTestController.class
+com\alibaba\csp\sentinel\adapter\spring\webflux\SentinelWebFluxIntegrationTest.class
